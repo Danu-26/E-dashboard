@@ -1,0 +1,385 @@
+[{
+  "_id": {
+    "$oid": "65a827956fd927946caebe46"
+  },
+  "name": "Laptop",
+  "price": 999.99,
+  "category": "Electronics",
+  "stock": 50,
+  "brand": "TechMaster",
+  "description": "Powerful laptop with high-performance specifications."
+},
+{
+  "_id": {
+    "$oid": "65a827ac6fd927946caebe48"
+  },
+  "name": "Smartphone",
+  "price": 499.99,
+  "category": "Electronics",
+  "stock": 100,
+  "brand": "MobileTech",
+  "description": "Latest smartphone with advanced features."
+},
+{
+  "_id": {
+    "$oid": "65a827bf6fd927946caebe4a"
+  },
+  "name": "Running Shoes",
+  "price": 79.99,
+  "category": "Footwear",
+  "stock": 200,
+  "brand": "RunPro",
+  "description": "Comfortable running shoes for your active lifestyle."
+},
+{
+  "_id": {
+    "$oid": "65a827d06fd927946caebe4c"
+  },
+  "name": "Wireless Headphones",
+  "price": 129.99,
+  "category": "Electronics",
+  "stock": 75,
+  "brand": "SoundSync",
+  "description": "Immerse yourself in high-quality sound with these wireless headphones."
+},
+{
+  "_id": {
+    "$oid": "65a827e16fd927946caebe4e"
+  },
+  "name": "Coffee Maker",
+  "price": 69.99,
+  "category": "Appliances",
+  "stock": 30,
+  "brand": "BrewMaster",
+  "description": "Brew your favorite coffee at home with this easy-to-use coffee maker."
+},
+{
+  "_id": {
+    "$oid": "65a827f16fd927946caebe50"
+  },
+  "name": "Hiking Backpack",
+  "price": 49.99,
+  "category": "Outdoor Gear",
+  "stock": 80,
+  "brand": "AdventurePro",
+  "description": "Durable and spacious hiking backpack for your outdoor adventures."
+},
+{
+  "_id": {
+    "$oid": "65a828036fd927946caebe52"
+  },
+  "name": "LED TV",
+  "price": 899.99,
+  "category": "Electronics",
+  "stock": 25,
+  "brand": "ViewTech",
+  "description": "Enjoy stunning visuals with this high-definition LED TV."
+},
+{
+  "_id": {
+    "$oid": "65a828136fd927946caebe54"
+  },
+  "name": "Gaming Console",
+  "price": 349.99,
+  "category": "Electronics",
+  "stock": 40,
+  "brand": "GameMaster",
+  "description": "Experience gaming like never before with this advanced gaming console."
+},
+{
+  "_id": {
+    "$oid": "65a828236fd927946caebe56"
+  },
+  "name": "Digital Camera",
+  "price": 299.99,
+  "category": "Electronics",
+  "stock": 60,
+  "brand": "CapturePro",
+  "description": "Capture your memories in high resolution with this digital camera."
+},
+{
+  "_id": {
+    "$oid": "65a828326fd927946caebe58"
+  },
+  "name": "Fitness Tracker",
+  "price": 89.99,
+  "category": "Fitness",
+  "stock": 120,
+  "brand": "FitTech",
+  "description": "Monitor your fitness activities with this advanced fitness tracker."
+},
+{
+  "_id": {
+    "$oid": "65a828456fd927946caebe5a"
+  },
+  "name": "Microwave Oven",
+  "price": 129.99,
+  "category": "Appliances",
+  "stock": 35,
+  "brand": "HeatMaster",
+  "description": "Efficient microwave oven for quick and easy cooking."
+},
+{
+  "_id": {
+    "$oid": "65a828556fd927946caebe5c"
+  },
+  "name": "Desk Chair",
+  "price": 59.99,
+  "category": "Furniture",
+  "stock": 90,
+  "brand": "ComfortZone",
+  "description": "Comfortable desk chair for long hours of work or study."
+},
+{
+  "_id": {
+    "$oid": "65a8a4679c9db9967f179f9d"
+  },
+  "name": "Bluetooth Speaker",
+  "price": 44.99,
+  "category": "Electronics",
+  "stock": 50,
+  "brand": "SoundWave",
+  "description": "Portable Bluetooth speaker for music on the go."
+},
+{
+  "_id": {
+    "$oid": "65a8a4809c9db9967f179f9f"
+  },
+  "name": "External Hard Drive",
+  "price": 79.99,
+  "category": "Electronics",
+  "stock": 65,
+  "brand": "StoragePro",
+  "description": "Expand your storage capacity with this reliable external hard drive."
+},
+{
+  "_id": {
+    "$oid": "65a8a4909c9db9967f179fa1"
+  },
+  "name": "Treadmill",
+  "price": 699.99,
+  "category": "Fitness",
+  "stock": 15,
+  "brand": "CardioFit",
+  "description": "Stay fit at home with this high-performance treadmill."
+},
+{
+  "_id": {
+    "$oid": "65a8a4a19c9db9967f179fa3"
+  },
+  "name": "Blender",
+  "price": 39.99,
+  "category": "Appliances",
+  "stock": 55,
+  "brand": "BlendMaster",
+  "description": "Blend your favorite smoothies and shakes with this powerful blender."
+},
+{
+  "_id": {
+    "$oid": "65a8a4bb9c9db9967f179fa5"
+  },
+  "name": "Garden Tools Set",
+  "price": 29.99,
+  "category": "Gardening",
+  "stock": 70,
+  "brand": "GreenThumb",
+  "description": "Complete set of garden tools for gardening enthusiasts."
+},
+{
+  "_id": {
+    "$oid": "65a8a4f79c9db9967f179fa7"
+  },
+  "name": "Robot Vacuum Cleaner",
+  "price": 149.99,
+  "category": "Appliances",
+  "stock": 25,
+  "brand": "CleanBot",
+  "description": "Effortlessly clean your home with this smart robot vacuum cleaner."
+},
+{
+  "_id": {
+    "$oid": "65a8a5969c9db9967f179faa"
+  },
+  "name": "Backpack",
+  "price": 34.99,
+  "category": "Fashion",
+  "stock": 120,
+  "brand": "StyleTrek",
+  "description": "Stylish and spacious backpack for everyday use."
+},
+{
+  "_id": {
+    "$oid": "65a8a5b39c9db9967f179fac"
+  },
+  "name": "Electric Toothbrush",
+  "price": 49.99,
+  "category": "Personal Care",
+  "stock": 80,
+  "brand": "DentalCare",
+  "description": "Keep your teeth clean with this advanced electric toothbrush."
+},
+{
+  "_id": {
+    "$oid": "65a8a5c69c9db9967f179fae"
+  },
+  "name": "Dumbbell Set",
+  "price": 59.99,
+  "category": "Fitness",
+  "stock": 40,
+  "brand": "StrengthZone",
+  "description": "Build strength at home with this versatile dumbbell set."
+},
+{
+  "_id": {
+    "$oid": "65a8a5d59c9db9967f179fb0"
+  },
+  "name": "Sleeping Bag",
+  "price": 79.99,
+  "category": "Outdoor Gear",
+  "stock": 25,
+  "brand": "AdventureSleep",
+  "description": "Stay warm and comfortable during your outdoor adventures with this sleeping bag."
+},
+{
+  "_id": {
+    "$oid": "65a8a5ee9c9db9967f179fb2"
+  },
+  "name": "Cordless Drill",
+  "price": 89.99,
+  "category": "Tools",
+  "stock": 30,
+  "brand": "PowerPro",
+  "description": "Complete your DIY projects with this powerful cordless drill."
+},
+{
+  "_id": {
+    "$oid": "65a8a5fc9c9db9967f179fb4"
+  },
+  "name": "Sunglasses",
+  "price": 24.99,
+  "category": "Fashion",
+  "stock": 100,
+  "brand": "SunStyle",
+  "description": "Protect your eyes in style with these fashionable sunglasses."
+},
+{
+  "_id": {
+    "$oid": "65a8a6209c9db9967f179fb6"
+  },
+  "name": "Compact Digital Scale",
+  "price": 19.99,
+  "category": "Kitchen",
+  "stock": 60,
+  "brand": "WeighMaster",
+  "description": "Accurately measure ingredients with this compact digital scale for your kitchen."
+},
+{
+  "_id": {
+    "$oid": "65a8a66b9c9db9967f179fb8"
+  },
+  "name": "Portable Charger",
+  "price": 29.99,
+  "category": "Electronics",
+  "stock": 70,
+  "brand": "ChargeTech",
+  "description": "Keep your devices charged on the go with this portable charger."
+},
+{
+  "_id": {
+    "$oid": "65a8a6799c9db9967f179fba"
+  },
+  "name": "Yoga Mat",
+  "price": 19.99,
+  "category": "Fitness",
+  "stock": 90,
+  "brand": "ZenFit",
+  "description": "Enhance your yoga practice with this comfortable and non-slip yoga mat."
+},
+{
+  "_id": {
+    "$oid": "65a8a6879c9db9967f179fbc"
+  },
+  "name": "Digital Watch",
+  "price": 59.99,
+  "category": "Fashion",
+  "stock": 50,
+  "brand": "TimeTech",
+  "description": "Stay punctual and stylish with this sleek digital watch."
+},
+{
+  "_id": {
+    "$oid": "65a8a69a9c9db9967f179fbe"
+  },
+  "name": "Camping Tent",
+  "price": 129.99,
+  "category": "Outdoor Gear",
+  "stock": 20,
+  "brand": "CampPro",
+  "description": "Enjoy camping adventures with this spacious and easy-to-set-up camping tent."
+},
+{
+  "_id": {
+    "$oid": "65a8a6a89c9db9967f179fc0"
+  },
+  "name": "Puzzle Set",
+  "price": 14.99,
+  "category": "Entertainment",
+  "stock": 110,
+  "brand": "BrainTeasers",
+  "description": "Challenge your mind with this assortment of engaging puzzles."
+},
+{
+  "_id": {
+    "$oid": "65a8a6b69c9db9967f179fc2"
+  },
+  "name": "Travel Backpack",
+  "price": 39.99,
+  "category": "Travel",
+  "stock": 65,
+  "brand": "JetSetter",
+  "description": "Convenient and compact backpack for your travel essentials."
+},
+{
+  "_id": {
+    "$oid": "65a8a6c69c9db9967f179fc4"
+  },
+  "name": "Frying Pan",
+  "price": 24.99,
+  "category": "Kitchen",
+  "stock": 85,
+  "brand": "CookMaster",
+  "description": "Cook delicious meals with this durable and non-stick frying pan."
+},
+{
+  "_id": {
+    "$oid": "65a8a6f49c9db9967f179fc6"
+  },
+  "name": "Desk Organizer",
+  "price": 19.99,
+  "category": "Office Supplies",
+  "stock": 75,
+  "brand": "OrganizePro",
+  "description": "Keep your desk tidy with this practical and stylish desk organizer."
+},
+{
+  "_id": {
+    "$oid": "65a8a7239c9db9967f179fc8"
+  },
+  "name": "Wireless Mouse",
+  "price": 29.99,
+  "category": "Electronics",
+  "stock": 55,
+  "brand": "TechGlide",
+  "description": "Enhance your computer setup with this responsive wireless mouse."
+},
+{
+  "_id": {
+    "$oid": "65a8a7319c9db9967f179fca"
+  },
+  "name": "Pet Bed",
+  "price": 39.99,
+  "category": "Pet Supplies",
+  "stock": 40,
+  "brand": "ComfyPet",
+  "description": "Provide comfort for your furry friend with this cozy pet bed."
+}]
